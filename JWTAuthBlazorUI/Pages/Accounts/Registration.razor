@@ -16,12 +16,14 @@
             <MudCardContent>
                 @if(!string.IsNullOrEmpty(APIErrorMessages))
                 {
-                    <MudChip T="string" Color="Color.Error">APIErrorMessages</MudChip>
+                    <MudChip T="string" Color="Color.Error">
+                        <p>@APIErrorMessages</p>
+                    </MudChip>
                 }
-                <MudTextField @bind-Value="registrationModel.FristName"                              
-                                For="@(() => registrationModel.FristName)"
+                <MudTextField @bind-Value="registrationModel.FirstName"                              
+                                For="@(() => registrationModel.FirstName)"
                                 Immediate="true"
-                                Label="Frist Name" />
+                                Label="First Name" />
                 <MudTextField @bind-Value="registrationModel.LastName"                              
                                 For="@(() => registrationModel.LastName)"
                                 Immediate="true"
@@ -40,7 +42,7 @@
                 <MudTextField @bind-Value="registrationModel.ComfirmPassword"
                             For="@(() => registrationModel.ComfirmPassword)"
                             Immediate="true"
-                            Label="ComfirmPassword" InputType="InputType.Password" />
+                            Label="ConfirmPassword" InputType="InputType.Password" />
             </MudCardContent>
         </MudForm>
         <MudCardActions>
@@ -53,11 +55,18 @@
 @code {
     RegistrationVM registrationModel = new RegistrationVM();
 
-    RegistrationValidationVM validationModel = new RegistrationValidationVM();
+    RegistrationValidationVM validationModel;
 
     MudForm form;
 
+    protected override Task OnInitializedAsync()
+    {
+        @* var httpClient = _httpClientFactory.CreateClient("Dot8Api"); *@
+        validationModel = new RegistrationValidationVM(_http);
+        return base.OnInitializedAsync();
+    }
     string APIErrorMessages;
+
 
     private async Task RegisterAsync()
     {
@@ -67,7 +76,9 @@
             //registration API call
             var jsonPayload = JsonSerializer.Serialize(registrationModel);
             var requestContent = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
-            var response = await _http.PostAsync("api/user/register", requestContent);
+
+            var response = await _http.PostAsync("/api/User/register", requestContent);
+
             if(response.StatusCode == HttpStatusCode.BadRequest)
             {
                 var errors = await response.Content.ReadFromJsonAsync<Dictionary<string, List<string>>>();
@@ -84,7 +95,7 @@
             }
             else if(response.StatusCode == HttpStatusCode.OK)
             {
-                _navigationManager.NavigateTo("/registration-confirmation");
+                _navigationManager.NavigateTo("/registrationconfirmation");
             }
             else
             {

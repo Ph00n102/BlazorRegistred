@@ -2,6 +2,7 @@ using JWTAuthAPI.Data;
 using JWTAuthAPI.Services;
 using JWTAuthAPI.Data.Entities;
 using Microsoft.EntityFrameworkCore;
+using JWTAuthAPI.Shared.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,14 +18,16 @@ builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddCors(options => 
 { 
-        options.AddPolicy(name: "BlazorCors", 
-            policy => 
-            { 
-                policy.WithOrigins("http://localhost:5236/")
-                .AllowAnyHeader()
-                .AllowAnyMethod();
-            });
+    options.AddPolicy(name: "BlazorCors", 
+        policy => 
+        { 
+            policy.WithOrigins("http://localhost:5236")
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+        });
 });
+
+builder.Services.Configure<TokenSettings>(builder.Configuration.GetSection(nameof(TokenSettings)));
 
 var app = builder.Build();
 
