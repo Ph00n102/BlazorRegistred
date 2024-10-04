@@ -43,5 +43,6 @@ namespace JWTAuthAPI.Controllers
             ModelState.AddModelError("LoginError", "Invalid Credentials");
             return BadRequest(ModelState);
         }
+        
     }
 }

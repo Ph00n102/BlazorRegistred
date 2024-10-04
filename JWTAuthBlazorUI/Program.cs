@@ -4,6 +4,7 @@ using JWTAuthBlazorUI;
 using MudBlazor.Services;
 using Microsoft.AspNetCore.Components.Authorization;
 using Blazored.LocalStorage;
+using JWTAuthBlazorUI.Shared.Providers;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 
@@ -16,7 +17,9 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("http://
 //     options.BaseAddress = new Uri("https://localhost:7127/");
 // }).AddHttpMessageHandler<CustomHttpHandler>();
 builder.Services.AddMudServices();
-// builder.Services.AddBlazoredLocalStorage();
-// builder.Services.AddAuthorizationCore();
+builder.Services.AddBlazoredLocalStorage();
+builder.Services.AddAuthorizationCore();
+builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthProvider>();
+builder.Services.AddAuthorizationCore();
 
 await builder.Build().RunAsync();

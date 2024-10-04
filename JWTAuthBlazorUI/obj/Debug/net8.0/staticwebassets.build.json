@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "txyNX1dVm+NG67ecpvXOCvvV6K72JS2PQ9m8OVj1QcE=",
+  "Hash": "zxV/dBxjsGoeyFrx5d5Qay7lSwMaIq1DPsjBdBBks1A=",
   "Source": "JWTAuthBlazorUI",
   "BasePath": "/",
   "Mode": "Root",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.css",
+      "Identity": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.css",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\HP\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.css"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.js",
+      "Identity": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.js",
       "SourceId": "MudBlazor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\HP\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\",
       "BasePath": "_content/MudBlazor",
       "RelativePath": "MudBlazor.min.js",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.js"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\mudblazor\\7.8.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.1\\build\\net8.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.1\\build\\net8.0\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.swf0hs36io.js",
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.7lyjchwr8e.js",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
       "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.1.swf0hs36io.js",
+      "RelativePath": "_framework/dotnet.native.8.0.8.7lyjchwr8e.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.qibb9hio5n.js",
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.8htjy98uza.js",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
       "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.1.qibb9hio5n.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.8htjy98uza.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\FluentValidation.wasm",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\JWTAuthBlazorUI.pdb",
@@ -4881,6 +4881,25 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\7lyjchwr8e.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.8.7lyjchwr8e.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.7lyjchwr8e.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.7lyjchwr8e.js"
+    },
+    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\7tjhsig1rj.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -4898,25 +4917,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.wasm"
-    },
-    {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\7x3ge1gqr9.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\7y6fvpn7vy.gz",
@@ -4976,6 +4976,25 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Web.HttpUtility.wasm"
     },
     {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\8htjy98uza.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.8htjy98uza.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.8htjy98uza.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.8htjy98uza.js"
+    },
+    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\8mruomilj4.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -4993,6 +5012,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Windows.wasm"
+    },
+    {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\8pan71998c.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\8pgccw3unx.gz",
@@ -5204,25 +5242,6 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Buffers.wasm"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\9ms70qze96.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\9s5y2cil4y.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -5297,6 +5316,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm"
+    },
+    {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\axa56d40i8.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\azx5t42pcf.gz",
@@ -5413,6 +5451,25 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.wasm"
     },
     {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\c68k86b0rf.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\c70qwn8l96.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -5430,6 +5487,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.Json.wasm"
+    },
+    {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\cf8irvdplp.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\ciaw3z11zy.gz",
@@ -5698,6 +5774,25 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.RegularExpressions.wasm"
     },
     {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\fge4paigxh.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\fh9atciijo.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -5772,25 +5867,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
-    },
-    {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\g62ufa6vzd.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\g7msjwcyq3.gz",
@@ -5962,6 +6038,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm"
+    },
+    {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\h480tlahci.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\he8bpxlihy.gz",
@@ -6171,25 +6266,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
-    },
-    {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\ixe8bvmpjm.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\ixpi29i9io.gz",
@@ -6705,25 +6781,6 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\myg1qum7m4.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\n3487akd7h.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -6914,25 +6971,6 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\poq6383a16.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\pqp59fzk30.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -6990,23 +7028,23 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\qibb9hio5n.gz",
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\qbbodokra8.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
       "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.1.qibb9hio5n.js.gz",
+      "RelativePath": "_framework/dotnet.js.map.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.qibb9hio5n.js",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.1.qibb9hio5n.js"
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\qiljs87614.gz",
@@ -7159,25 +7197,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm"
-    },
-    {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\rbzo6mt9a6.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\rhlvz62fu7.gz",
@@ -7351,25 +7370,6 @@
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.wasm"
     },
     {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\swf0hs36io.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.1.swf0hs36io.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.swf0hs36io.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.1.swf0hs36io.js"
-    },
-    {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\t4tu4zxe6k.gz",
       "SourceId": "JWTAuthBlazorUI",
       "SourceType": "Computed",
@@ -7425,6 +7425,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.wasm"
+    },
+    {
+      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\thw58x9ev3.gz",
+      "SourceId": "JWTAuthBlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\tj33cak4ht.gz",
@@ -7881,25 +7900,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.wasm"
-    },
-    {
-      "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\ygzzqm7hbq.gz",
-      "SourceId": "JWTAuthBlazorUI",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\BlazorRegistred\\JWTAuthBlazorUI\\obj\\Debug\\net8.0\\compressed\\yirkjsqhny.gz",

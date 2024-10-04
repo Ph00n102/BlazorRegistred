@@ -273,9 +273,9 @@ D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMult
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWTAuthAPI.props
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\staticwebassets.pack.json
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\scopedcss\bundle\JWTAuthAPI.styles.css
-D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\JWTAuthAPI.csproj.CopyComplete
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\JWTAuthAPI.dll
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\refint\JWTAuthAPI.dll
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\JWTAuthAPI.pdb
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\JWTAuthAPI.genruntimeconfig.cache
 D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\ref\JWTAuthAPI.dll
+D:\BlazorRegistred\JWTAuthAPI\obj\Debug\net8.0\JWTAuthAPI.csproj.Up2Date
